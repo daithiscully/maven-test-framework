@@ -8,6 +8,6 @@ public class TestAllureIsWorking {
 
 	@Test
 	public void test(){
-		Assert.assertTrue(1 == 1);
+		Assert.assertTrue(true);
 	}
 }
